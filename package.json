@@ -1,0 +1,26 @@
+{
+  "name": "request-promise",
+  "version": "1.0.0",
+  "description": "Request library wrapped in a promise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/supercycle91/request-promise.git"
+  },
+  "keywords": [
+    "request",
+    "promise"
+  ],
+  "author": "David Novicki <supercycle91@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/supercycle91/request-promise/issues"
+  },
+  "homepage": "https://github.com/supercycle91/request-promise#readme",
+  "dependencies": {
+    "request": "^2.81.0"
+  }
+}
