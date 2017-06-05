@@ -1,5 +1,5 @@
 {
-  "name": "request-promise",
+  "name": "request-promise-node",
   "version": "1.0.0",
   "description": "Request library wrapped in a promise",
   "main": "index.js",
