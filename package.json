@@ -12,7 +12,8 @@
   },
   "keywords": [
     "request",
-    "promise"
+	"promise",
+	"nodejs"
   ],
   "author": "David Novicki <supercycle91@gmail.com>",
   "license": "ISC",
