@@ -1,6 +1,6 @@
 {
   "name": "request-promise-node",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Request library wrapped in a promise",
   "main": "index.js",
   "scripts": {
@@ -12,8 +12,8 @@
   },
   "keywords": [
     "request",
-	"promise",
-	"nodejs"
+    "promise",
+    "nodejs"
   ],
   "author": "David Novicki <supercycle91@gmail.com>",
   "license": "ISC",
